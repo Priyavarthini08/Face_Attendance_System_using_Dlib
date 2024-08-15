@@ -5,13 +5,13 @@ This project is a facial recognition attendance system developed using Flask, Op
 
 # Features
 
-Student Registration: Students can register their faces by providing their names. The system captures multiple images of the student's face and stores them in a directory.
+ * Student Registration: Students can register their faces by providing their names. The system captures multiple images of the student's face and stores them in a directory.
 
-Face Feature Extraction: The system uses the shape_predictor_68_face_landmarks.dat model to extract facial features and store them in the backend.
+ * Face Feature Extraction: The system uses the shape_predictor_68_face_landmarks.dat model to extract facial features and store them in the backend.
 
-Teacher Panel: Teachers can take attendance by capturing video streams. The system recognizes faces using the dlib_face_recognition_resnet_model_v1.dat model and stores the attendance data (name and time) in the database.
+ * Teacher Panel: Teachers can take attendance by capturing video streams. The system recognizes faces using the dlib_face_recognition_resnet_model_v1.dat model and stores the attendance data (name and time) in the database.
 
-Attendance Viewing: Teachers can view the attendance records, showing which students were present on a selected date and the time they were recognized.
+ * Attendance Viewing: Teachers can view the attendance records, showing which students were present on a selected date and the time they were recognized.
 
 # Prerequisites
 
