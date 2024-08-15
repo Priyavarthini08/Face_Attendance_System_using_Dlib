@@ -34,35 +34,31 @@ Place the downloaded models in the project directory.
 
 # Usage
 
-Run the Flask Application:
+1. Run the Flask Application:
 
 python app.py
 
-Welcome Page: Navigate to http://127.0.0.1:5000 in your browser. You will see a welcome page with options to select "Student" or "Teacher."
+2. Welcome Page: Navigate to http://127.0.0.1:5000 in your browser. You will see a welcome page with options to select "Student" or "Teacher."
 
-Student Registration:
+3. Student Registration:
 
-Click on "Student."
-Enter the student's name and capture face photos.
-The system will create a directory for the student and store the captured images.
-Teacher Panel:
+* Click on "Student."
+* Enter the student's name and capture face photos.
+* The system will create a directory for the student and store the captured images.
 
-Click on "Teacher."
+4. Teacher Panel:
 
-You will see two options: "Take Attendance" and "View Attendance."
+* Click on "Teacher"
+* You will see two options: "Take Attendance" and "View Attendance."
+* Take Attendance:
 
-Take Attendance:
+     * Click on "Take Attendance."
+     * The system will start capturing video streams and recognize faces.
+     * Recognized faces will be stored in the database with the current time.
+* View Attendance:
 
-Click on "Take Attendance."
-The system will start capturing video streams and recognize faces.
-Recognized faces will be stored in the database with the current time.
-View Attendance:
-
-Click on "View Attendance."
-Select a date to view the attendance records.
-Screenshots
-Student Registration
-Student Registration
+     * Click on "View Attendance."
+     * Select a date to view the attendance records.
 
 
 # Teacher Panel
