@@ -24,9 +24,12 @@ flask
 pip install -r requirements.txt
 
 #Download the required models:
+
 https://drive.google.com/drive/folders/1Md1SnWRmzY3iZ1RPgsZf68Kj2Y2GBI7H?usp=drive_link
 shape_predictor_68_face_landmarks.dat
+
 dlib_face_recognition_resnet_model_v1.dat
+
 Place the downloaded models in the project directory.
 
 # Usage
@@ -62,9 +65,12 @@ Student Registration
 Student Registration
 
 
-Teacher Panel
+# Teacher Panel
+
 <img width="895" alt="teacher_panel" src="https://github.com/user-attachments/assets/a1ee2545-91ab-49f1-aa06-b96e1fc3958e">
-Attendance Tracker Sheet
+
+# Attendance Tracker Sheet
+
 <img width="889" alt="attendance_tracker_sheet" src="https://github.com/user-attachments/assets/7fd74788-9399-4df2-abe0-e03fd00831bb">
 
 
