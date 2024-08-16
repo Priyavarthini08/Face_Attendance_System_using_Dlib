@@ -69,10 +69,6 @@ Place the downloaded models in the project directory.
      * Click on "View Attendance."
      * Select a date to view the attendance records.
 
-# Student Registeration
-
-<img width="1227" alt="Face_registeration" src="https://github.com/user-attachments/assets/d54299b4-33a3-4ec3-9289-d7693faf9fd6">
-
 # Teacher Panel
 
 <img width="895" alt="teacher_panel" src="https://github.com/user-attachments/assets/a1ee2545-91ab-49f1-aa06-b96e1fc3958e">
