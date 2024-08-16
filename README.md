@@ -75,6 +75,8 @@ Place the downloaded models in the project directory.
 
 <img width="1229" alt="Screenshot 2024-08-16 at 11 40 41 PM" src="https://github.com/user-attachments/assets/3687c083-71aa-40d2-9988-4d0e663ef6e1">
 
+<img width="1229" alt="attendance_registeration" src="https://github.com/user-attachments/assets/22f16f04-8836-402d-baec-228113b63d9c">
+
 
 # Teacher Panel
 
